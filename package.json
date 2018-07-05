@@ -4,6 +4,7 @@
   "description": "WebSockets server for SKUD",
   "main": "server.js",
   "scripts": {
+    "wss": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
